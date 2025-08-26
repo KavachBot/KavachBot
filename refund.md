@@ -1,5 +1,3 @@
-# 📌 refund.md
-
 # Refund Policy for Kavach Discord Bot
 
 *Last Updated: 26 August 2025*
