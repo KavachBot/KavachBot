@@ -25,7 +25,7 @@
 * [Shipping Policy](./shipping.md)
 * [Contact](./contact.md)
 
-## 🤝 Support
+##  Support
 
 For help, issues, or questions, join our [Support Server](https://discord.gg/Kavach) or contact us at **[support@kavachbot.com](mailto:support@kavachbot.com)**.
 
