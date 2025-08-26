@@ -1,7 +1,7 @@
 
-# Privacy Policy for Excel Discord Bot
+# Privacy Policy for kavach Discord Bot
 
-This Privacy Policy explains how Excel, a Discord bot, collects, uses, and protects user information when interacting with the bot. By using Excel, you agree to the terms outlined in this policy.
+This Privacy Policy explains how Excel, a Discord bot, collects, uses, and protects user information when interacting with the bot. By using kavach, you agree to the terms outlined in this policy.
 
 ## Information We Collect
 
@@ -21,7 +21,7 @@ The collected information is used for the following purposes:
 
 - **Improvement and Updates:** We analyze usage data to improve the functionality, performance, and features of the bot, ensuring a better user experience.
 
-- **Communication:** Excel may use your data to communicate with you about updates, troubleshoot issues, and provide support related to bot usage.
+- **Communication:** kavach may use your data to communicate with you about updates, troubleshoot issues, and provide support related to bot usage.
 
 ## Data Sharing
 
@@ -44,7 +44,7 @@ Excel is not intended for users under the age of 13. If we learn that a child un
 This Privacy Policy may be updated periodically. Any changes will be posted here, and the updates will take effect as soon as they are published.
 
 ## Contact Us
-
+**[support@kavachbot.com](mailto:support@kavachbot.com)**.
 If you have any questions or concerns about this Privacy Policy or the data kavach collects, please contact us:
 
 
