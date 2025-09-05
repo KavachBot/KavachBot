@@ -1,98 +1,57 @@
+# 2. Terms of Service
 
-# Privacy Policy for Kavach Discord Bot
+These Terms of Service explain how you may use Kavach and what Kavach will (and will not) do. Keep these published on your website and link them during premium checkout and onboarding.
 
-*Last Updated: 26 August 2025*
+## 2.1 Acceptance
 
-This Privacy Policy describes how **Kavach** (“we,” “our,” or “the bot”) collects, stores, uses, and protects information when you interact with the bot on Discord. By using Kavach, you agree to the terms outlined in this policy.
+By inviting Kavach to your Discord server or using any of its services, you agree to these Terms. If you do not agree, remove the bot and do not use its services.
 
-Kavach is a **Discord security and utility bot** designed to safeguard communities, provide moderation tools, and improve the overall server experience. We respect your privacy and are committed to keeping your data secure.
+## 2.2 Definitions
 
----
+* "Kavach" means the software and services run by the Kavach team and offered under the kavachbot.com domain.
+* "User" or "you" means the person or organization using the bot.
+* "Server" means a Discord guild where Kavach is installed.
 
-## 1. Information We Collect
+## 2.3 Services provided
 
-When you use Kavach, the bot may collect the following types of data:
+Kavach provides bot-based security and moderation tools including AntiNuke, Automod, Moderation tools, Backups, Logs, Config, Verification workflows, JoinGate, and related services. Premium subscriptions add advanced features and priority support.
 
-* **Discord User IDs & Server IDs**
-  Used to identify users and servers uniquely. This allows us to provide features such as custom settings, moderation history, and role-based configurations.
+## 2.4 Required permissions and role placement
 
-* **Server Information**
-  Includes server name, member count, and configuration details to support features like Anti-Nuke, Moderation, Automod, Tickets, and Logger.
+To operate correctly, Kavach must be placed high in the role hierarchy and be granted the permissions listed in Section 1. If the bot is not given required permissions, certain features will fail. You are responsible for assigning permissions.
 
-* **Command & Interaction Logs**
-  Kavach records command usage (e.g., moderation actions, configuration changes) to ensure proper functioning, troubleshoot issues, and improve performance.
+## 2.5 Direct messaging
 
-* **Error & Performance Data**
-  Technical logs (e.g., failed commands, internal errors) are collected to maintain bot stability and improve reliability.
+Kavach may send Direct Messages to users for verification, alerts, or incident reports. By using the bot you consent to receiving those messages. Kavach will not spam users. Critical security DMs may be mandatory.
 
-We **do not collect sensitive personal data** such as passwords, payment information, or private messages.
+## 2.6 Prohibited uses
 
----
+You may not use Kavach to:
 
-## 2. How We Use Your Information
+* Break Discord terms or local laws
+* Perform harassment, hate, or abuse
+* Redistribute the bot or its code without permission
+* Bypass Discord rate limits or otherwise attempt to exploit the platform
+  Failure to comply may result in access suspension or removal.
 
-Your data is used for the following purposes:
+## 2.7 Modifications to service and terms
 
-* **Bot Functionality**
-  To ensure Kavach responds correctly to commands, manages server-specific settings, and delivers features effectively.
+Kavach may change features or these Terms. Significant changes will be announced via the support server and email when possible. Continued use after changes means you accept the new Terms.
 
-* **Security & Abuse Prevention**
-  To prevent misuse, detect malicious activity, and protect communities from harmful actions (e.g., raid protection, spam prevention).
+## 2.8 Termination
 
-* **Service Improvements**
-  Usage data helps us enhance features, fix bugs, and release new updates that benefit all users.
+Kavach may suspend or terminate service for servers or users that violate these Terms. You may also remove the bot at any time.
 
-* **Support & Communication**
-  We may contact you (via email or Discord) for support, issue resolution, or important updates about the bot.
+## 2.9 Payment and premium subscriptions
 
----
+Premium features may be billed via third-party payment processors. All purchases are subject to the Refund Policy. When you subscribe you agree to auto-renewal until you cancel.
 
-## 3. Data Sharing & Disclosure
+## 2.10 Liability limitation
 
-* We **do not sell or trade user data** under any circumstances.
-* Data may be shared only if:
+Kavach will make reasonable efforts to provide services, but cannot guarantee 100% uptime or that every threat will be stopped. Kavach and its owners are not liable for indirect, incidental, or consequential damages. Total liability is limited to the total fees paid to Kavach for services in the 12 months prior to the claim. This clause is limited where local law prevents it.
 
-  * Required by law, regulation, or legal process.
-  * To protect the safety, security, or rights of our users.
-  * With explicit user consent (e.g., third-party integrations).
+## 2.11 Governing law
 
----
+These Terms are governed by the law applicable to Kavach's legal entity. For jurisdiction details contact [legal@kavachbot.com](mailto:legal@kavachbot.com).
 
-## 4. Data Security
-
-We apply strict technical and organizational measures to protect your information from unauthorized access, alteration, or disclosure. However, no method of data transmission over the internet is 100% secure. While we strive to protect your data, we cannot guarantee absolute security.
-
----
-
-## 5. Data Retention & Deletion
-
-* Data is retained only as long as necessary for the operation of the bot.
-* You may request the deletion of your data at any time by contacting us at **[support@kavachbot.com](mailto:support@kavachbot.com)**.
-* Once a request is verified, your data will be permanently deleted from our systems.
-
----
-
-## 6. Children’s Privacy
-
-Kavach is intended for use only by individuals aged **13 years or older**, in compliance with Discord’s Terms of Service.
-
-* If we discover that data has been collected from a user under 13, it will be deleted immediately.
-* Parents or guardians may contact us to request removal of such information.
-
----
-
-## 7. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. Any changes will be reflected here with an updated “Last Updated” date. Significant changes may also be announced through our Discord support server or website.
-
----
-
-## 8. Contact Us
-
-If you have any questions or concerns about this Privacy Policy or how Kavach handles your data, please contact us:
-
-* **Email:** [support@kavachbot.com](mailto:support@kavachbot.com)
-* **Website:** [https://kavachbot.com](https://kavachbot.com)
-* **Discord Support Server:** [https://discord.gg/Kavach](https://discord.gg/Kavach)
-
-
+**Note:** Kavach may send verified or security messages via Direct Message (DM). By using the bot, server members accept receiving required security DMs. Users can opt out of non-essential DMs where available, but critical alerts and verification steps may remain mandatory.
