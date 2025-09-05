@@ -1,6 +1,6 @@
 # Contact Us – Kavach Discord Bot
 
-*Last Updated: 26 August 2025*
+*Last Updated: 5 September 2025*
 
 We’re here to help! If you have any questions, concerns, or issues with **Kavach Bot**, you can reach our support team through the following channels:
 
@@ -31,3 +31,5 @@ We’re here to help! If you have any questions, concerns, or issues with **Kava
 
 For partnerships, business discussions, or legal matters, please email:
 **[admin@kavachbot.com](mailto:admin@kavachbot.com)**
+
+**© Kavach. All rights reserved.**
