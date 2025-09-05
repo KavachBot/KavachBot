@@ -15,14 +15,14 @@ We’re here to help! If you have any questions, concerns, or issues with **Kava
 
 ## 2. Discord Support Server
 
-* **[https://discord.gg/Kavach](https://discord.gg/Kavach)**
+* **[discord.gg/Kavach](https://discord.gg/Kavach)**
   Join our official Discord server to get live assistance, community help, and real-time updates about Kavach Bot.
 
 ---
 
 ## 3. Website
 
-* **[https://kavachbot.com](https://kavachbot.com)**
+* **[kavachbot.com](https://kavachbot.com)**
   Visit our website for documentation, FAQs, and announcements.
 
 ---
