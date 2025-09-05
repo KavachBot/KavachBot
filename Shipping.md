@@ -1,6 +1,6 @@
 # Shipping Policy – Kavach Discord Bot
 
-*Last Updated: 26 August 2025*
+*Last Updated: 5 September 2025*
 
 Kavach Bot provides **digital security services only**. We do not sell or ship any physical products.
 
