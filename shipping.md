@@ -32,3 +32,5 @@ Kavach Bot provides **digital security services only**. We do not sell or ship a
 For shipping or service delivery concerns:
 **[support@kavachbot.com](mailto:support@kavachbot.com)**
 **[billing@kavachbot.com](mailto:billing@kavachbot.com)**
+
+**© Kavach. All rights reserved.**
