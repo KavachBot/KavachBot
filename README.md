@@ -7,12 +7,12 @@ A comprehensive security solution for Discord servers, featuring AntiNuke protec
 ##  Table of Contents
 
 - [Official](./Official.md)
-- [Contact](./contact.md)
-- [Mail](./mail.md)
-- [Privacy](./privacy.md)
-- [Refund](./refund.md)
-- [Shipping](./shipping.md)
-- [Terms](./terms.md)
+- [Contact](./Contact.md)
+- [Mail](./Mail.md)
+- [Privacy](./Privacy.md)
+- [Refund](./Refund.md)
+- [Shipping](./Shipping.md)
+- [Terms](./Terms.md)
 
 ##  Overview
 
@@ -58,16 +58,16 @@ Kavach uses specialized email addresses for different purposes:
 
 ##  Documentation
 
-### [Privacy Policy](privacy.md)
+### [Privacy Policy](Privacy.md)
 Details what data we collect, why we collect it, how we store it, and your rights regarding your data.
 
-### [Terms of Service](terms.md)
+### [Terms of Service](Terms.md)
 Governs your use of Kavach services, including prohibited uses and liability limitations.
 
-### [Refund Policy](refund.md)
+### [Refund Policy](Refund.md)
 Explains our refund policy for premium subscriptions and purchases.
 
-### [Shipping Policy](shipping.md)
+### [Shipping Policy](Shipping.md)
 Clarifies that Kavach provides digital services only with no physical products.
 
 ##  Quick Links
