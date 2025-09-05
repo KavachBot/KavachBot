@@ -36,4 +36,10 @@ Collaborations, partnership opportunities, and business deals.
 **12. [legal@kavachbot.com](mailto:legal@kavachbot.com)**
 Copyright issues, misuse complaints, and DMCA notices.
 
+### ⚠️ Important Notice
+
+These are the **only official emails** of Kavach Bot.
+If you receive any email from an address **not listed here**, please ignore it.
+Such emails may be **fake or a scam attempt**. Stay safe and always verify.
+
 **© Kavach. All rights reserved.**
