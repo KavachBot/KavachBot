@@ -72,7 +72,7 @@ Clarifies that Kavach provides digital services only with no physical products.
 
 ##  Quick Links
 - [Add Suno Music ](https://discord.com/oauth2/authorize?client_id=1213200797844897833)
-- [Add Kavach to Your Server](https://discord.com/oauth2/authorize?client_id=860040650124558336)
+- [Add Kavach ](https://discord.com/oauth2/authorize?client_id=860040650124558336)
 - [Add Kavach Premium](https://discord.com/oauth2/authorize?client_id=1051442182466314281)
 - [Join Support Server](https://discord.gg/Kavach)
 - [Visit Website](https://kavachbot.com)
