@@ -55,3 +55,5 @@ Kavach will make reasonable efforts to provide services, but cannot guarantee 10
 These Terms are governed by the law applicable to Kavach's legal entity. For jurisdiction details contact [legal@kavachbot.com](mailto:legal@kavachbot.com).
 
 **Note:** Kavach may send verified or security messages via Direct Message (DM). By using the bot, server members accept receiving required security DMs. Users can opt out of non-essential DMs where available, but critical alerts and verification steps may remain mandatory.
+
+**© Kavach. All rights reserved.**
