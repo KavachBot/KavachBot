@@ -55,3 +55,5 @@ We use external providers for payments and analytics. Those providers may collec
 Kavach is not intended for children under 13. If you believe a child under the age of 13 provided personal data, contact [legal@kavachbot.com](mailto:legal@kavachbot.com).
 
 Note: Kavach may send verified or security messages via Direct Message (DM). By using the bot, server members accept receiving required security DMs. Users can opt out of non-essential DMs where available, but critical alerts and verification steps may remain mandatory.
+
+**© Kavach. All rights reserved.**
