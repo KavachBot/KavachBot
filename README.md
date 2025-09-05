@@ -29,4 +29,6 @@
 
 For help, issues, or questions, join our [Support Server](https://discord.gg/Kavach) or contact us at **[support@kavachbot.com](mailto:support@kavachbot.com)**.
 
+**© Kavach. All rights reserved.**
+
 
