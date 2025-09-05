@@ -6,7 +6,7 @@ A comprehensive security solution for Discord servers, featuring AntiNuke protec
 
 ## 📖 Table of Contents
 
-- [Overview](#-overview)
+- [Official](./Official.md)
 - [Official Bots](#-official-bots)
 - [Contact Information](#-contact-information)
 - [Email Directory](#-email-directory)
