@@ -21,3 +21,5 @@ This policy applies to paid upgrades, premium subscriptions, and one-time purcha
 ## 3.3 Chargebacks
 
 If you file a chargeback with your payment provider without contacting us first, we will investigate and may limit access to premium features while the dispute is open.
+
+**© Kavach. All rights reserved.**
