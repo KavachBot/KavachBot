@@ -1,6 +1,6 @@
 # Kavach Bot – Complete Documentation .
 
-  ![Kavach Banner](https://media.discordapp.net/attachments/1270304805570482188/1413524815058436096/logo.png?ex=68bc3f11&is=68baed91&hm=a53b1b054dd7d7e4f57fdd90c2a4dd157d1e2172b0352bbb7606d58b218d2d21&=&format=webp&quality=lossless&width=350&height=350)
+  ![Kavach Logo](https://media.discordapp.net/attachments/1419338453107216405/1419338540881543341/logo.png?)
 
 A comprehensive security solution for Discord servers, featuring AntiNuke protection, automated moderation, backup systems, and verification tools.
 
@@ -77,7 +77,7 @@ Clarifies that Kavach provides digital services only with no physical products.
 - [Join Support Server](https://discord.gg/Kavach)
 - [Visit Website](https://kavachbot.com)
 
-![Kavach Banner](https://media.discordapp.net/attachments/1270304805570482188/1413524247644733570/banner.png?ex=68bc3e8a&is=68baed0a&hm=cf8807fe7917e72c1bc08e24d63ff18574d5541387d55961961dcc18ad562697&=&format=webp&quality=lossless&width=550&height=194)
+![Kavach Banner](https://media.discordapp.net/attachments/1419338453107216405/1419338496837025902/banner.png?)
 
 ## ⚠️ Important Notes
 
