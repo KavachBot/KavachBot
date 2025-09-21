@@ -1,6 +1,6 @@
 # Kavach Bot – Complete Documentation .
 
-  ![Kavach Logo]([https://media.discordapp.net/attachments/1419338453107216405/1419338540881543341/logo.png?](https://media.discordapp.net/attachments/1419338453107216405/1419338540881543341/logo.png?ex=68d16586&is=68d01406&hm=cc2376d2e50133ddaad10dc11ad3aeab484f0638cc4004fdff80a42db295b28c&=&format=webp&quality=lossless))
+  ![Kavach Logo](https://media.discordapp.net/attachments/1419338453107216405/1419338540881543341/logo.png?ex=68d16586&is=68d01406&hm=cc2376d2e50133ddaad10dc11ad3aeab484f0638cc4004fdff80a42db295b28c&=&format=webp&quality=lossless)
 
 A comprehensive security solution for Discord servers, featuring AntiNuke protection, automated moderation, backup systems, and verification tools.
 
@@ -77,7 +77,7 @@ Clarifies that Kavach provides digital services only with no physical products.
 - [Join Support Server](https://discord.gg/Kavach)
 - [Visit Website](https://kavachbot.com)
 
-![Kavach Banner]([https://media.discordapp.net/attachments/1419338453107216405/1419338496837025902/banner.png?](https://media.discordapp.net/attachments/1419338453107216405/1419338496837025902/banner.png?ex=68d1657b&is=68d013fb&hm=5fd74aca0b88dfc5ac5d106fc8ed53bde931857e43bbb620a206e297c1316a5e&=&format=webp&quality=lossless))
+![Kavach Banner](https://media.discordapp.net/attachments/1419338453107216405/1419338496837025902/banner.png?ex=68d1657b&is=68d013fb&hm=5fd74aca0b88dfc5ac5d106fc8ed53bde931857e43bbb620a206e297c1316a5e&=&format=webp&quality=lossless)
 
 ## ⚠️ Important Notes
 
