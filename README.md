@@ -1,26 +1,36 @@
 <div align="center">
 
-<img src="https://github.com/KavachBot/KavachBot/blob/main/assets/logo.png?ex=68d16586&is=68d01406&hm=cc2376d2e50133ddaad10dc11ad3aeab484f0638cc4004fdff80a42db295b28c&=&format=webp&quality=lossless" width="100px" />
+<img src="https://raw.githubusercontent.com/KavachBot/KavachBot/main/assets/logo.png" width="110px" />
 
+<br/>
 <br/>
 
 # KAVACH
 
-**Enterprise-Grade Discord Security**
+**Enterprise-Grade Security for Discord**
 
 <br/>
 
-<a href="https://discord.com/oauth2/authorize?client_id=860040650124558336"><img src="https://img.shields.io/badge/ADD%20KAVACH-FREE-00C851?style=for-the-badge&labelColor=0d1117&color=00C851" /></a>
+<a href="https://discord.com/oauth2/authorize?client_id=860040650124558336">
+  <img src="https://img.shields.io/badge/Add%20Kavach-Free-00C851?style=for-the-badge&labelColor=0d1117" />
+</a>
 &nbsp;
-<a href="https://discord.com/oauth2/authorize?client_id=1051442182466314281"><img src="https://img.shields.io/badge/ADD%20KAVACH-PREMIUM-FFD700?style=for-the-badge&labelColor=0d1117&color=FFD700" /></a>
+<a href="https://discord.com/oauth2/authorize?client_id=1051442182466314281">
+  <img src="https://img.shields.io/badge/Add%20Kavach-Premium-FFD700?style=for-the-badge&labelColor=0d1117" />
+</a>
 &nbsp;
-<a href="https://discord.gg/Kavach"><img src="https://img.shields.io/badge/DISCORD-SUPPORT%20SERVER-5865F2?style=for-the-badge&labelColor=0d1117&color=5865F2" /></a>
+<a href="https://discord.gg/Kavach">
+  <img src="https://img.shields.io/badge/Discord-Support%20Server-5865F2?style=for-the-badge&labelColor=0d1117" />
+</a>
 &nbsp;
-<a href="https://kavachbot.com"><img src="https://img.shields.io/badge/WEBSITE-KAVACHBOT.COM-FF6B35?style=for-the-badge&labelColor=0d1117&color=FF6B35" /></a>
+<a href="https://kavachbot.com">
+  <img src="https://img.shields.io/badge/Website-kavachbot.com-FF6B35?style=for-the-badge&labelColor=0d1117" />
+</a>
 
-<br/><br/>
+<br/>
+<br/>
 
-<img src="https://github.com/KavachBot/KavachBot/blob/main/assets/banner.png?ex=68d1657b&is=68d013fb&hm=5fd74aca0b88dfc5ac5d106fc8ed53bde931857e43bbb620a206e297c1316a5e&=&format=webp&quality=lossless" width="780px" />
+<img src="https://raw.githubusercontent.com/KavachBot/KavachBot/main/assets/banner.png" width="780px" />
 
 </div>
 
@@ -36,8 +46,6 @@
 
 ## Features
 
-<br/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -48,7 +56,7 @@ Detects and neutralizes mass channel deletions, role modifications, and permissi
 <br/>
 
 **Anti-Raid System**
-Identifies coordinated join floods and automated bot raids. Automatically lockdowns entry and alerts administrators.
+Identifies coordinated join floods and automated bot raids. Automatically locks down entry and alerts administrators instantly.
 
 <br/>
 
@@ -81,8 +89,6 @@ Granular, timestamped logs for every moderation action, member join/leave, role 
 
 > These are the **only** verified, official Kavach bots. Always confirm the Discord tag before granting permissions.
 
-<br/>
-
 | Bot | Tag | Purpose | Invite |
 |---|---|---|---|
 | Kavach | `Kavach#4312` | Core security suite — free for all servers | [Add](https://discord.com/oauth2/authorize?client_id=860040650124558336) |
@@ -92,8 +98,6 @@ Granular, timestamped logs for every moderation action, member join/leave, role 
 ---
 
 ## Free vs Premium
-
-<br/>
 
 | Capability | Free | Premium |
 |---|:---:|:---:|
@@ -112,13 +116,15 @@ Granular, timestamped logs for every moderation action, member join/leave, role 
 
 ## Getting Started
 
-**1.** Invite Kavach to your server via the invite link above.
+**1.** Invite Kavach to your server using the invite link above.
 
 **2.** Run the setup command and configure your desired protection level.
 
 **3.** Assign Kavach a high-ranked role so it can act on threats effectively.
 
 **4.** Kavach handles the rest — silently, in the background, always watching.
+
+> Need help? Join our [Support Server](https://discord.gg/Kavach) or email [support@kavachbot.com](mailto:support@kavachbot.com)
 
 ---
 
@@ -139,7 +145,7 @@ Granular, timestamped logs for every moderation action, member join/leave, role 
 
 ---
 
-## Legal
+## Legal & Policies
 
 [Terms of Service](./Terms.md) &nbsp;·&nbsp; [Privacy Policy](./Privacy.md) &nbsp;·&nbsp; [Refund Policy](./Refund.md) &nbsp;·&nbsp; [Shipping Policy](./Shipping.md)
 
@@ -147,7 +153,7 @@ Granular, timestamped logs for every moderation action, member join/leave, role 
 
 ## Security Notice
 
-Kavach will **never** ask for your password or personal credentials. Only interact with the bots listed above — verify the Discord tag before granting any permissions. Critical security alerts may be delivered via Direct Message and cannot be disabled.
+Kavach will **never** ask for your password or personal credentials. Only interact with the bots listed above — always verify the Discord tag before granting any permissions. Critical security alerts may be delivered via Direct Message and cannot be disabled.
 
 ---
 
