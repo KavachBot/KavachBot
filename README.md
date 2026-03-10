@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Add%20Kavach-Premium-FFD700?style=for-the-badge&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://discord.gg/Kavach">
+<a href="https://discord.gg/NkYS7M8mxy">
   <img src="https://img.shields.io/badge/Discord-Support%20Server-5865F2?style=for-the-badge&labelColor=0d1117" />
 </a>
 &nbsp;
@@ -124,7 +124,7 @@ Granular, timestamped logs for every moderation action, member join/leave, role 
 
 **4.** Kavach handles the rest — silently, in the background, always watching.
 
-> Need help? Join our [Support Server](https://discord.gg/Kavach) or email [support@kavachbot.com](mailto:support@kavachbot.com)
+> Need help? Join our [Support Server](https://discord.gg/NkYS7M8mxy) or email [support@kavachbot.com](mailto:support@kavachbot.com)
 
 ---
 
@@ -139,7 +139,7 @@ Granular, timestamped logs for every moderation action, member join/leave, role 
 | Partnerships | [partners@kavachbot.com](mailto:partners@kavachbot.com) |
 | Legal Matters | [legal@kavachbot.com](mailto:legal@kavachbot.com) |
 | Careers | [hr@kavachbot.com](mailto:hr@kavachbot.com) |
-| Discord Support | [discord.gg/Kavach](https://discord.gg/Kavach) |
+| Discord Support | [discord.gg/Kavach](https://discord.gg/NkYS7M8mxy) |
 
 *Email response time: 24 – 48 hours.*
 
