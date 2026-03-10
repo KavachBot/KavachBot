@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://media.discordapp.net/attachments/1419338453107216405/1419338496837025902/banner.png?ex=68d1657b&is=68d013fb&hm=5fd74aca0b88dfc5ac5d106fc8ed53bde931857e43bbb620a206e297c1316a5e&=&format=webp&quality=lossless" width="780px" />
+<img src="https://github.com/KavachBot/KavachBot/blob/main/assets/banner.png?ex=68d1657b&is=68d013fb&hm=5fd74aca0b88dfc5ac5d106fc8ed53bde931857e43bbb620a206e297c1316a5e&=&format=webp&quality=lossless" width="780px" />
 
 </div>
 
