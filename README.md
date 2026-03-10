@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.discordapp.net/attachments/1419338453107216405/1419338540881543341/logo.png?ex=68d16586&is=68d01406&hm=cc2376d2e50133ddaad10dc11ad3aeab484f0638cc4004fdff80a42db295b28c&=&format=webp&quality=lossless" width="100px" />
+<img src="https://github.com/KavachBot/KavachBot/blob/main/assets/logo.png?ex=68d16586&is=68d01406&hm=cc2376d2e50133ddaad10dc11ad3aeab484f0638cc4004fdff80a42db295b28c&=&format=webp&quality=lossless" width="100px" />
 
 <br/>
 
